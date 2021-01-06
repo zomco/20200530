@@ -13,7 +13,7 @@
   "author": "zomcoo@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "baidu-aip-sdk": "^2.4.6",
     "querystring": "^0.2.0",
     "sharp": "^0.25.3",
